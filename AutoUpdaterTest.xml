@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>2.2.0.1</version>
+    <version>2.2.0.2</version>
     <url>https://github.com/johnny4young/yojob-release/raw/master/download/yojob.zip</url>
     <changelog>https://github.com/johnny4young/yojob-release/releases</changelog>
     <mandatory>true</mandatory>
